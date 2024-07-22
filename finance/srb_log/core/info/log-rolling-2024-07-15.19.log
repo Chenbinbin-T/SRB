@@ -1,0 +1,5 @@
+2024-07-15 23:09:42 [INFO ] http-nio-8110-exec-9 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|9|2541564561231|银行啊|4104820000000|13600287881|http://localhost:81/api/core/userBind/notify|ABC|http://localhost:3000/user|1721056182331|9876543210
+2024-07-15 23:09:42 [INFO ] http-nio-8110-exec-9 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：b19e3ad19fbacaa9ccbcb7b89de912b9
+2024-07-15 23:10:07 [INFO ] http-nio-8110-exec-4 UserBindController.java:44 com.atguigu.srb.core.controller.api.UserBindController 用户账号绑定异步回调：{"agentUserId":"9","resultCode":"0001","sign":"e4f3bd94c493f151f78dd473ce417dfa","bindCode":"ba60324888184ae6b5d9f47402d275ab","resultMsg":"成功","timestamp":"1721056206703"}
+2024-07-15 23:10:07 [INFO ] http-nio-8110-exec-4 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：9|ba60324888184ae6b5d9f47402d275ab|0001|成功|1721056206703|9876543210
+2024-07-15 23:10:07 [INFO ] http-nio-8110-exec-4 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：e4f3bd94c493f151f78dd473ce417dfa

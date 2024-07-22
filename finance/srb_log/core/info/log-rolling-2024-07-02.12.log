@@ -1,0 +1,8 @@
+2024-07-02 16:29:30 [INFO ] http-nio-8110-exec-4 AdminIntegralGradeController.java:33 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-07-02 16:29:30 [WARN ] http-nio-8110-exec-4 AdminIntegralGradeController.java:34 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-07-02 16:29:30 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:35 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-07-02 16:34:20 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-H34M1RA with PID 27756 (D:\JAVA Program\srb-project\srb\service-core\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-02 16:34:20 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-02 16:34:22 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 2.538 seconds (JVM running for 3.082)
+2024-07-02 16:37:20 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-H34M1RA with PID 29072 (D:\JAVA Program\srb-project\srb\service-core\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-02 16:37:20 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

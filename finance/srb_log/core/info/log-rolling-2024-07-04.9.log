@@ -1,0 +1,7 @@
+2024-07-04 16:35:25 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 3.176 seconds (JVM running for 3.804)
+2024-07-04 16:37:29 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ExcelWriteTest Starting ExcelWriteTest on DESKTOP-H34M1RA with PID 51648 (started by chopo in D:\JAVA Program\srb-project\srb\service-core)
+2024-07-04 16:37:29 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ExcelWriteTest The following profiles are active: dev
+2024-07-04 16:37:33 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ExcelWriteTest Started ExcelWriteTest in 4.537 seconds (JVM running for 5.121)
+2024-07-04 16:47:50 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.RedisTemplateTests The following profiles are active: dev
+2024-07-04 16:48:05 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.RedisTemplateTests Started RedisTemplateTests in 15.982 seconds (JVM running for 16.69)
+2024-07-04 16:48:43 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.RedisTemplateTests The following profiles are active: dev

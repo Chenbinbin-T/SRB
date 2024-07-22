@@ -1,0 +1,6 @@
+2024-07-04 10:16:35 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 2.188 seconds (JVM running for 2.744)
+2024-07-04 10:47:43 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-H34M1RA with PID 37468 (D:\JAVA Program\srb-project\srb\service-core\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-04 10:47:43 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-04 10:47:45 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 2.321 seconds (JVM running for 2.893)
+2024-07-04 11:16:18 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-H34M1RA with PID 45752 (D:\JAVA Program\srb-project\srb\service-core\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-04 11:16:18 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

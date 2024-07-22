@@ -1,0 +1,7 @@
+2024-07-10 21:10:18 [INFO ] http-nio-8110-exec-2 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：7|1cabf1ded9ec41ea8923b43f6a0b9789|0001|成功|1720617017222|9876543210
+2024-07-10 21:10:18 [INFO ] http-nio-8110-exec-2 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：2abe32b75aaee6f230dfc3c94880fc65
+2024-07-11 10:12:51 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-11 10:13:36 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-11 10:16:54 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-11 10:16:58 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.139 seconds (JVM running for 5.772)
+2024-07-11 10:18:55 [INFO ] http-nio-8110-exec-10 Assert.java:18 com.atguigu.common.exception.Assert obj is null.....................

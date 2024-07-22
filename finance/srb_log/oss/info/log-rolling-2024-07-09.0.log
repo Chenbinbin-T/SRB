@@ -1,0 +1,8 @@
+2024-07-06 11:14:15 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 2.152 seconds (JVM running for 2.708)
+2024-07-06 11:15:59 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.oss.ServiceOssApplication Starting ServiceOssApplication on DESKTOP-H34M1RA with PID 58424 (D:\JAVA Program\srb-project\srb\service-oss\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-06 11:15:59 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
+2024-07-06 11:16:01 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 1.872 seconds (JVM running for 2.4)
+2024-07-06 11:16:35 [INFO ] http-nio-8130-exec-9 FileServiceImpl.java:69 com.atguigu.srb.oss.service.Impl.FileServiceImpl https://srb-file-cbb.oss-cn-beijing.aliyuncs.com/avatar/2024/07/06/9290c3f8-a636-4ffa-9c71-dbcd1df0ddc0.jpg
+2024-07-06 11:16:35 [INFO ] http-nio-8130-exec-9 FileServiceImpl.java:70 com.atguigu.srb.oss.service.Impl.FileServiceImpl https://srb-file-cbb.oss-cn-beijing.aliyuncs.com/
+2024-07-06 11:16:35 [INFO ] http-nio-8130-exec-9 FileServiceImpl.java:71 com.atguigu.srb.oss.service.Impl.FileServiceImpl avatar/2024/07/06/9290c3f8-a636-4ffa-9c71-dbcd1df0ddc0.jpg
+2024-07-09 21:30:15 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev

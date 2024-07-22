@@ -1,0 +1,33 @@
+server:
+  port: 81 # 服务端口
+
+spring:
+  profiles:
+    active: dev # 环境设置
+  application:
+    name: service-gateway # 服务名
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 # nacos服务地址
+    gateway:
+      discovery:
+        locator:
+          enabled: true # gateway可以发现nacos中的微服务，并自动生成转发路由
+      #spring:
+      # cloud:
+      #   gateway:
+      routes:
+          # 每一个id为一个微服务；uri中的lb为以负载均衡的方式访问微服务；predicates为具体微服务路径
+          - id: service-core
+            uri: lb://service-core
+            predicates:
+              - Path=/*/core/**
+          - id: service-sms
+            uri: lb://service-sms
+            predicates:
+              - Path=/*/sms/**
+          - id: service-oss
+            uri: lb://service-oss
+            predicates:
+              - Path=/*/oss/**

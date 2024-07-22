@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\JAVA Program\\\\srb-project\\\\front\\\\nuxt-app\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "lend",
+    "path": "/lend",
+    "component": "D:\\\\JAVA Program\\\\srb-project\\\\front\\\\nuxt-app\\\\pages\\\\lend\\\\index.vue",
+    "chunkName": "pages/lend/index"
+  },
+  {
+    "path": "/user",
+    "component": "D:\\\\JAVA Program\\\\srb-project\\\\front\\\\nuxt-app\\\\pages\\\\user.vue",
+    "chunkName": "pages/user",
+    "children": [
+      {
+        "name": "user",
+        "path": "",
+        "component": "D:\\\\JAVA Program\\\\srb-project\\\\front\\\\nuxt-app\\\\pages\\\\user\\\\index.vue",
+        "chunkName": "pages/user/index"
+      },
+      {
+        "name": "user-user1",
+        "path": "user1",
+        "component": "D:\\\\JAVA Program\\\\srb-project\\\\front\\\\nuxt-app\\\\pages\\\\user\\\\user1.vue",
+        "chunkName": "pages/user/user1"
+      },
+      {
+        "name": "user-user2",
+        "path": "user2",
+        "component": "D:\\\\JAVA Program\\\\srb-project\\\\front\\\\nuxt-app\\\\pages\\\\user\\\\user2.vue",
+        "chunkName": "pages/user/user2"
+      }
+    ]
+  },
+  {
+    "name": "lend-id",
+    "path": "/lend/:id",
+    "component": "D:\\\\JAVA Program\\\\srb-project\\\\front\\\\nuxt-app\\\\pages\\\\lend\\\\_id.vue",
+    "chunkName": "pages/lend/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\JAVA Program\\\\srb-project\\\\front\\\\nuxt-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

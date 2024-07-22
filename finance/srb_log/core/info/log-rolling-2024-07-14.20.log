@@ -1,0 +1,4 @@
+2024-07-14 16:45:43 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.258 seconds (JVM running for 5.924)
+2024-07-14 16:46:00 [INFO ] http-nio-8110-exec-4 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240714164600749|999888|890242cfd8d642acb04ae67c0cde6a20|10|0|http://localhost:81/api/core/userAccount/notify|http://localhost:3000/user|1720946760079|9876543210
+2024-07-14 16:46:00 [INFO ] http-nio-8110-exec-4 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：e7eac1bf480601c545c93011997d341b
+2024-07-14 16:46:06 [INFO ] http-nio-8110-exec-3 UserAccountController.java:49 com.atguigu.srb.core.controller.api.UserAccountController 用户充值异步回调：{"chargeAmt":"10","hyFee":"0","mchFee":"0","resultCode":"0001","sign":"aff9aa6685ec39e894d6da04c5affe68","bindCode":"890242cfd8d642acb04ae67c0cde6a20","agentBillNo":"20240714164600749","resultMsg":"充值成功","timestamp":"1720946765241"}

@@ -1,0 +1,5 @@
+2024-07-14 16:46:06 [INFO ] http-nio-8110-exec-3 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240714164600749|890242cfd8d642acb04ae67c0cde6a20|10|0|0|0001|充值成功|1720946765241|9876543210
+2024-07-14 16:46:06 [INFO ] http-nio-8110-exec-3 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：aff9aa6685ec39e894d6da04c5affe68
+2024-07-14 16:46:06 [INFO ] http-nio-8110-exec-3 UserAccountServiceImpl.java:76 com.atguigu.srb.core.service.impl.UserAccountServiceImpl 充值成功:{"chargeAmt":"10","hyFee":"0","mchFee":"0","resultCode":"0001","bindCode":"890242cfd8d642acb04ae67c0cde6a20","agentBillNo":"20240714164600749","resultMsg":"充值成功","timestamp":"1720946765241"}
+2024-07-14 16:47:58 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-14 16:48:02 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.385 seconds (JVM running for 6.03)

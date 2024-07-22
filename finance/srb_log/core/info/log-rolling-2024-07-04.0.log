@@ -1,0 +1,6 @@
+2024-07-04 09:57:01 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-H34M1RA with PID 21408 (D:\JAVA Program\srb-project\srb\service-core\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-04 09:57:01 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-04 09:57:03 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 2.701 seconds (JVM running for 3.424)
+2024-07-04 09:58:53 [INFO ] http-nio-8110-exec-9 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=1, parentId=0, name=全部分类, value=null, dictCode=ROOT)
+2024-07-04 09:58:53 [INFO ] http-nio-8110-exec-9 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=20000, parentId=1, name=行业, value=null, dictCode=industry)
+2024-07-04 09:58:53 [INFO ] http-nio-8110-exec-9 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=20001, parentId=20000, name=IT, value=1, dictCode=null)

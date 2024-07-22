@@ -1,0 +1,6 @@
+2024-07-05 01:17:35 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.RedisTemplateTests Started RedisTemplateTests in 4.135 seconds (JVM running for 4.673)
+2024-07-05 01:17:50 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.RedisTemplateTests Starting RedisTemplateTests on DESKTOP-H34M1RA with PID 50260 (started by chopo in D:\JAVA Program\srb-project\srb\service-core)
+2024-07-05 01:17:50 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.RedisTemplateTests The following profiles are active: dev
+2024-07-05 01:17:53 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.RedisTemplateTests Started RedisTemplateTests in 4.009 seconds (JVM running for 4.621)
+2024-07-05 01:20:09 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-H34M1RA with PID 42748 (D:\JAVA Program\srb-project\srb\service-core\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-05 01:20:09 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

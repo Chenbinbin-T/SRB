@@ -1,0 +1,5 @@
+2024-07-14 16:48:31 [INFO ] http-nio-8110-exec-3 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240714164831004|999888|890242cfd8d642acb04ae67c0cde6a20|10|0|http://localhost:81/api/core/userAccount/notify|http://localhost:3000/user|1720946911176|9876543210
+2024-07-14 16:48:31 [INFO ] http-nio-8110-exec-3 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：750570612dc190d5162b0da82d2d340b
+2024-07-14 16:48:35 [INFO ] http-nio-8110-exec-4 UserAccountController.java:49 com.atguigu.srb.core.controller.api.UserAccountController 用户充值异步回调：{"chargeAmt":"10","hyFee":"0","mchFee":"0","resultCode":"0001","sign":"3bf05cbe769ea7ef743d294bbed5a64b","bindCode":"890242cfd8d642acb04ae67c0cde6a20","agentBillNo":"20240714164831004","resultMsg":"充值成功","timestamp":"1720946914289"}
+2024-07-14 16:48:35 [INFO ] http-nio-8110-exec-4 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240714164831004|890242cfd8d642acb04ae67c0cde6a20|10|0|0|0001|充值成功|1720946914289|9876543210
+2024-07-14 16:48:35 [INFO ] http-nio-8110-exec-4 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：3bf05cbe769ea7ef743d294bbed5a64b

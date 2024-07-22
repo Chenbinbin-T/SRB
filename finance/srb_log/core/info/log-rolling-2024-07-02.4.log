@@ -1,0 +1,7 @@
+2024-07-02 16:12:44 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:35 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-07-02 16:13:46 [INFO ] http-nio-8110-exec-4 AdminIntegralGradeController.java:33 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-07-02 16:13:46 [WARN ] http-nio-8110-exec-4 AdminIntegralGradeController.java:34 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-07-02 16:13:46 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:35 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-07-02 16:14:18 [INFO ] http-nio-8110-exec-10 AdminIntegralGradeController.java:33 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-07-02 16:14:18 [WARN ] http-nio-8110-exec-10 AdminIntegralGradeController.java:34 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-07-02 16:14:18 [ERROR] http-nio-8110-exec-10 AdminIntegralGradeController.java:35 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error

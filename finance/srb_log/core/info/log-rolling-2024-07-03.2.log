@@ -1,0 +1,6 @@
+2024-07-03 10:37:10 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ExcelWriteTest Started ExcelWriteTest in 3.374 seconds (JVM running for 3.931)
+2024-07-03 10:37:42 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ExcelWriteTest Starting ExcelWriteTest on DESKTOP-H34M1RA with PID 42960 (started by chopo in D:\JAVA Program\srb-project\srb\service-core)
+2024-07-03 10:37:42 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ExcelWriteTest The following profiles are active: dev
+2024-07-03 10:37:46 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ExcelWriteTest Started ExcelWriteTest in 3.817 seconds (JVM running for 4.355)
+2024-07-03 10:38:17 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-H34M1RA with PID 14720 (D:\JAVA Program\srb-project\srb\service-core\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-03 10:38:17 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

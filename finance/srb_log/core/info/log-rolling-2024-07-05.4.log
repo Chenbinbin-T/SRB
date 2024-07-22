@@ -1,0 +1,7 @@
+2024-07-05 01:20:11 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 2.88 seconds (JVM running for 3.463)
+2024-07-05 01:20:22 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:71 com.atguigu.srb.core.service.impl.DictServiceImpl 从Redis中读取数据
+2024-07-05 01:20:23 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:82 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-07-05 01:20:23 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中存入数据到Redis
+2024-07-05 01:20:25 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:71 com.atguigu.srb.core.service.impl.DictServiceImpl 从Redis中读取数据
+2024-07-05 01:20:25 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:82 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-07-05 01:20:25 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中存入数据到Redis

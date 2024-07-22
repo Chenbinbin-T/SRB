@@ -1,0 +1,19 @@
+server:
+  port: 8130
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: service-oss
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 # nacos服务地址
+
+aliyun:
+  oss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    keyId: LTAI5tMXBtD9hh6bR2pYPBP5
+    keySecret: 9RszkABjk4GGqKoewG2s2YRX3TOZNT
+    bucketName: srb-file-cbb

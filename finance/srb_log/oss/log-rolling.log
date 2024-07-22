@@ -1,0 +1,3 @@
+2024-07-15 22:53:08 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 4.133 seconds (JVM running for 4.853)
+2024-07-15 22:57:16 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
+2024-07-15 22:57:19 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 3.819 seconds (JVM running for 4.468)

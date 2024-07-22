@@ -1,0 +1,26 @@
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:63 com.atguigu.srb.core.listener.ExcelDictDTOListener 5条数据，开始存储数据库！
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:65 com.atguigu.srb.core.listener.ExcelDictDTOListener 存储数据库成功！
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=81000, parentId=1, name=借款状态, value=null, dictCode=borrowStatus)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=81001, parentId=81000, name=待审核, value=0, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=81002, parentId=81000, name=审批通过, value=1, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=81003, parentId=81000, name=还款中, value=2, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=81004, parentId=81000, name=结束, value=3, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:63 com.atguigu.srb.core.listener.ExcelDictDTOListener 5条数据，开始存储数据库！
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:65 com.atguigu.srb.core.listener.ExcelDictDTOListener 存储数据库成功！
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=81005, parentId=81000, name=审批不通过, value=-1, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82000, parentId=1, name=学校性质, value=null, dictCode=SchoolStatus)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82001, parentId=82000, name=211/985, value=null, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82002, parentId=82000, name=一本, value=null, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82003, parentId=82000, name=二本, value=null, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:63 com.atguigu.srb.core.listener.ExcelDictDTOListener 5条数据，开始存储数据库！
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:65 com.atguigu.srb.core.listener.ExcelDictDTOListener 存储数据库成功！
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82004, parentId=82000, name=三本, value=null, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82005, parentId=82000, name=高职高专, value=null, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82006, parentId=82000, name=中职中专, value=null, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:39 com.atguigu.srb.core.listener.ExcelDictDTOListener 解析到一条记录: ExcelDictDTO(id=82007, parentId=82000, name=高中及以下, value=null, dictCode=null)
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:63 com.atguigu.srb.core.listener.ExcelDictDTOListener 4条数据，开始存储数据库！
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:65 com.atguigu.srb.core.listener.ExcelDictDTOListener 存储数据库成功！
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 ExcelDictDTOListener.java:56 com.atguigu.srb.core.listener.ExcelDictDTOListener 所有数据解析完成！
+2024-07-04 10:01:20 [INFO ] http-nio-8110-exec-10 DictServiceImpl.java:36 com.atguigu.srb.core.service.impl.DictServiceImpl importData finished
+2024-07-04 10:16:33 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-H34M1RA with PID 48944 (D:\JAVA Program\srb-project\srb\service-core\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-04 10:16:33 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

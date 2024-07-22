@@ -1,0 +1,7 @@
+2024-07-12 10:42:43 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.285 seconds (JVM running for 5.983)
+2024-07-12 10:46:00 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-12 10:46:04 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.955 seconds (JVM running for 5.666)
+2024-07-12 16:03:49 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-12 16:05:07 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-12 16:05:10 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.45 seconds (JVM running for 5.069)
+2024-07-12 16:10:31 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:71 com.atguigu.srb.core.service.impl.DictServiceImpl 从Redis中读取数据

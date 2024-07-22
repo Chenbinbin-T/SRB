@@ -1,0 +1,6 @@
+2024-07-10 21:06:27 [INFO ] http-nio-8110-exec-1 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：70c71f6583775e2fc5cf0ada121f5b5a
+2024-07-10 21:09:43 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-10 21:09:47 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.51 seconds (JVM running for 6.199)
+2024-07-10 21:10:09 [INFO ] http-nio-8110-exec-1 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|7|12348912|陈氏银行|410482200001074553|13612721980|http://localhost:81/api/core/userBind/notify|sadas|http://localhost:3000/user|1720617009845|9876543210
+2024-07-10 21:10:09 [INFO ] http-nio-8110-exec-1 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：58099d62ec3fc3586f16d26cb5032259
+2024-07-10 21:10:18 [INFO ] http-nio-8110-exec-2 UserBindController.java:44 com.atguigu.srb.core.controller.api.UserBindController 用户账号绑定异步回调：{"agentUserId":"7","resultCode":"0001","sign":"2abe32b75aaee6f230dfc3c94880fc65","bindCode":"1cabf1ded9ec41ea8923b43f6a0b9789","resultMsg":"成功","timestamp":"1720617017222"}

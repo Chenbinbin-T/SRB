@@ -1,0 +1,6 @@
+2024-07-10 20:54:50 [INFO ] http-nio-8110-exec-1 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：c83c49d5032ec2ec67637bd840131249
+2024-07-10 21:03:47 [INFO ] http-nio-8110-exec-6 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|7|12348912|陈氏银行|410482200001074553|13612721980|http://localhost/api/core/userBind/notify|sadas|http://localhost:3000/user|1720616627805|9876543210
+2024-07-10 21:03:47 [INFO ] http-nio-8110-exec-6 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：46c397155137c59d6af046b23d9079d0
+2024-07-10 21:05:22 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-10 21:05:26 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.147 seconds (JVM running for 5.751)
+2024-07-10 21:06:27 [INFO ] http-nio-8110-exec-1 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|7|12348912|陈氏银行|410482200001074553|13612721980|http://localhost/api/core/userBind/notify|sadas|http://localhost:3000/user|1720616787656|9876543210

@@ -1,0 +1,8 @@
+2024-07-06 10:53:59 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 1.946 seconds (JVM running for 2.47)
+2024-07-06 11:03:18 [INFO ] http-nio-8130-exec-3 FileServiceImpl.java:69 com.atguigu.srb.oss.service.Impl.FileServiceImpl 删除的文件为e8bcf.jpg
+2024-07-06 11:05:03 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.oss.ServiceOssApplication Starting ServiceOssApplication on DESKTOP-H34M1RA with PID 30320 (D:\JAVA Program\srb-project\srb\service-oss\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-06 11:05:03 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
+2024-07-06 11:05:04 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 1.903 seconds (JVM running for 2.483)
+2024-07-06 11:05:13 [INFO ] http-nio-8130-exec-8 FileServiceImpl.java:69 com.atguigu.srb.oss.service.Impl.FileServiceImpl 删除的文件为:e8bcf.jpg
+2024-07-06 11:14:13 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.oss.ServiceOssApplication Starting ServiceOssApplication on DESKTOP-H34M1RA with PID 67692 (D:\JAVA Program\srb-project\srb\service-oss\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-06 11:14:13 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev

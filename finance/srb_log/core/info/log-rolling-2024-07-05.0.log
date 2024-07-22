@@ -1,0 +1,15 @@
+2024-07-04 23:54:53 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.RedisTemplateTests Started RedisTemplateTests in 14.852 seconds (JVM running for 15.567)
+2024-07-04 23:55:09 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ExcelWriteTest The following profiles are active: dev
+2024-07-04 23:55:23 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ExcelWriteTest Started ExcelWriteTest in 15.158 seconds (JVM running for 15.847)
+2024-07-04 23:55:33 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ExcelWriteTest The following profiles are active: dev
+2024-07-04 23:55:51 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-04 23:56:36 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-04 23:58:56 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-05 00:05:59 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-05 00:06:33 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-05 00:19:20 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-05 00:20:50 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-05 00:21:02 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-05 00:41:08 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-05 00:45:22 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-H34M1RA with PID 35304 (D:\JAVA Program\srb-project\srb\service-core\target\classes started by chopo in D:\JAVA Program\srb-project\srb)
+2024-07-05 00:45:22 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

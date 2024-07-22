@@ -1,0 +1,5 @@
+2024-07-16 18:16:40 [INFO ] http-nio-8110-exec-10 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：6c6872c5ea90238e4595638552ad3d18
+2024-07-16 18:18:16 [INFO ] http-nio-8110-exec-5 LendReturnController.java:63 com.atguigu.srb.core.controller.api.LendReturnController 还款异步回调：{"totalAmt":"862.74","successNum":"2","resultCode":"0001","sign":"6246d343204ca1edeb033187641f1e32","agentBatchNo":"RETURN20240715232353585","voteFeeAmt":"0","resultMsg":"还款成功","timestamp":"1721125095625"}
+2024-07-16 18:18:16 [INFO ] http-nio-8110-exec-5 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：RETURN20240715232353585|0001|还款成功|2|1721125095625|862.74|0|9876543210
+2024-07-16 18:18:16 [INFO ] http-nio-8110-exec-5 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：6246d343204ca1edeb033187641f1e32
+2024-07-16 18:18:16 [INFO ] http-nio-8110-exec-5 LendReturnServiceImpl.java:124 com.atguigu.srb.core.service.impl.LendReturnServiceImpl 还款成功

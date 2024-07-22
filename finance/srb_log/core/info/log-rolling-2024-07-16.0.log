@@ -1,0 +1,5 @@
+2024-07-15 23:23:53 [INFO ] http-nio-8110-exec-5 RequestHelper.java:99 com.atguigu.srb.core.hfb.RequestHelper --> 汇付宝应答结果：result data {"agentProjectCode":"LEND20240715231642084","voteAmt":"4875.0002000000","hyFee":"0","mchFee":"124.9998000000","resultCode":"0000","resultMsg":"放款成功","agentBillNo":"LOAN20240715232353239"}
+2024-07-15 23:23:53 [INFO ] http-nio-8110-exec-5 LendServiceImpl.java:197 com.atguigu.srb.core.service.impl.LendServiceImpl 放款结果：{"agentProjectCode":"LEND20240715231642084","voteAmt":"4875.0002000000","hyFee":"0","mchFee":"124.9998000000","resultCode":"0000","resultMsg":"放款成功","agentBillNo":"LOAN20240715232353239"}
+2024-07-16 17:26:27 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-07-16 17:26:32 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.941 seconds (JVM running for 6.655)
+2024-07-16 17:36:24 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
